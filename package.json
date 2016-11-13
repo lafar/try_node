@@ -1,7 +1,6 @@
 {
   "name": "library",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +22,13 @@
     "gulp-nodemon": "^2.2.1",
     "jshint-stylish": "^2.2.1",
     "wiredep": "^4.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://lafar@github.com/lafar/try_node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lafar/try_node/issues"
+  },
+  "homepage": "https://github.com/lafar/try_node"
 }
